@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WindowsSecurity", "WindowsSecurity\", "{C2296F4F-42E4-445C-AD19-C3486506016F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WindowsSecurity"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter20\WindowsSecurity\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WindowsSecurity\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WindowsSecurity"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter20\WindowsSecurity\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WindowsSecurity\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56201"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2296F4F-42E4-445C-AD19-C3486506016F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C2296F4F-42E4-445C-AD19-C3486506016F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

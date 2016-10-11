@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ErrorHandling", "ErrorHandling\", "{18E8B43E-FCCF-4FBE-B8A7-B123FC5963DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/ErrorHandling"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter08\ErrorHandling\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ErrorHandling\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ErrorHandling"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter08\ErrorHandling\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ErrorHandling\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53247"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E8B43E-FCCF-4FBE-B8A7-B123FC5963DD}.Debug|.NET.ActiveCfg = Debug|.NET
+		{18E8B43E-FCCF-4FBE-B8A7-B123FC5963DD}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

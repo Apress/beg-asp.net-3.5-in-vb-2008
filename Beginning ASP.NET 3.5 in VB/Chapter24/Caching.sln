@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Caching", "Caching\", "{C23D710A-0BFE-4DD6-8B43-5ABC26F1229B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Caching"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter24\Caching\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Caching\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Caching"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter24\Caching\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Caching\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53159"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23D710A-0BFE-4DD6-8B43-5ABC26F1229B}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C23D710A-0BFE-4DD6-8B43-5ABC26F1229B}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

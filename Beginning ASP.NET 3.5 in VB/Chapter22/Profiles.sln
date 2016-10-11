@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Profiles", "Profiles\", "{022B9DD3-00CC-4BB8-92F0-97EEFFBEFFBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/Profiles"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter22\Profiles\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Profiles\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Profiles"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 3.5 in VB\Chapter22\Profiles\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Profiles\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56111"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022B9DD3-00CC-4BB8-92F0-97EEFFBEFFBC}.Debug|.NET.ActiveCfg = Debug|.NET
+		{022B9DD3-00CC-4BB8-92F0-97EEFFBEFFBC}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

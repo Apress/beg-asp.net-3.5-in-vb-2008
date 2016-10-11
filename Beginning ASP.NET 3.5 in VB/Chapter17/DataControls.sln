@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DataControls", "DataControls\", "{FFF3FBC4-A72E-48C1-9025-A126E8534BDA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/DataControls"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter17\DataControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DataControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DataControls"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter17\DataControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DataControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53842"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF3FBC4-A72E-48C1-9025-A126E8534BDA}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FFF3FBC4-A72E-48C1-9025-A126E8534BDA}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

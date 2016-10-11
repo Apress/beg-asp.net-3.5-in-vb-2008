@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DataBinding", "DataBinding\", "{AB01E395-A981-468E-8EE6-0B49210877C5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/DataBinding"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter16\DataBinding\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DataBinding\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/DataBinding"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter16\DataBinding\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DataBinding\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53421"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB01E395-A981-468E-8EE6-0B49210877C5}.Debug|.NET.ActiveCfg = Debug|.NET
+		{AB01E395-A981-468E-8EE6-0B49210877C5}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

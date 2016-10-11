@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UserControls", "UserControls\", "{FF1D7669-DB1F-4E30-B1EF-0F6D918AE1E4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/UserControls"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter12\UserControls\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\UserControls\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/UserControls"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Beginning ASP.NET 2.0 in VB\Chapter12\UserControls\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\UserControls\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57532"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1D7669-DB1F-4E30-B1EF-0F6D918AE1E4}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FF1D7669-DB1F-4E30-B1EF-0F6D918AE1E4}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
